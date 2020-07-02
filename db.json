@@ -11,5 +11,9 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+ "favorite":{
+ 	"id":1 ,
+	 "name" : "test2"
+ }
 }
