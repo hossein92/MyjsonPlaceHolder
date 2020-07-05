@@ -12,17 +12,17 @@
   "profile": {
     "name": "typicode"
   }, "Categories":[
-    {"id": 1, "title": "دارو"},
-  {"id": 2, "title": "دارو گیاهی"},
-  {"id": 3, "title": "پوست"},
-  {"id": 4, "title": "مو"},
-  {"id": 5, "title": "مکمل ها"},
-  {"id": 6, "title": "دهان و دندان"},
-  {"id": 7, "title": "لوازم آرایشی"},
-  {"id": 8, "title": "مادر و کودک"},
-  {"id": 9, "title": "ویتامین ها"},
-  {"id": 10, "title": "محصولات جنسی"},
-  {"id": 11, "title": "تجهیزات پزشکی"},
-  {"id": 12, "title": "حیوانات"}
+    {"id": 1, "title": "دارو" ,"img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 2, "title": "دارو گیاهی","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 3, "title": "پوست","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 4, "title": "مو","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 5, "title": "مکمل ها","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 6, "title": "دهان و دندان","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 7, "title": "لوازم آرایشی","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 8, "title": "مادر و کودک","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 9, "title": "ویتامین ها","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 10, "title": "محصولات جنسی","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 11, "title": "تجهیزات پزشکی","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"},
+  {"id": 12, "title": "حیوانات","img":"https://github.com/hossein92/MyjsonPlaceHolder/blob/master/categoreis.png"}
   ]
 }
