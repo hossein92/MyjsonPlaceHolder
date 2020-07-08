@@ -16,74 +16,74 @@
     {
       "id": 1,
       "title": "پوست",
-      "img": "http://appreactdev.gigfa.com/app_pic/3.png"
+      "img": "../assets/deleteImage/categries/3.png"
     },
     {
       "id": 2,
       "title": "دارو گیاهی",
-      "img": "http://appreactdev.gigfa.com/app_pic/2.png"
+      "img": "../assets/deleteImage/categries/2.png"
     },
     {
       "id": 3,
       "title": "دارو",
-      "img": "http://appreactdev.gigfa.com/app_pic/1.png"
+      "img": "../assets/deleteImage/categries/1.png"
     },
     {
       "id": 4,
       "title": "دهان و دندان",
-      "img": "http://appreactdev.gigfa.com/app_pic/4.png"
+      "img": "../assets/deleteImage/categries/4.png"
     },
     {
       "id": 5,
       "title": "مکمل ها",
-      "img": "http://appreactdev.gigfa.com/app_pic/5.png"
+      "img": "../assets/deleteImage/categries/5.png"
     },
     {
       "id": 6,
       "title": "مو",
-      "img": "http://appreactdev.gigfa.com/app_pic/.png"
+      "img": "../assets/deleteImage/categries/8.png"
     },
     {
       "id": 7,
       "title": "مادر و کودک",
-      "img": "http://appreactdev.gigfa.com/app_pic/6.png"
+      "img": "../assets/deleteImage/categries/6.png"
     },
     {
       "id": 8,
       "title": "لوازم بهداشتی",
-      "img": "http://appreactdev.gigfa.com/app_pic/9.png"
+      "img": "../assets/deleteImage/categries/9.png"
     },
     {
       "id": 9,
       "title": "لوازم آرایشی",
-      "img": "http://appreactdev.gigfa.com/app_pic/7.png"
+      "img": "../assets/deleteImage/categries/7.png"
     },
     {
       "id": 10,
       "title": "حیوانات",
-      "img": "http://appreactdev.gigfa.com/app_pic/11.png"
+      "img": "../assets/deleteImage/categries/11.png"
     },
     {
       "id": 11,
       "title": "محصولات جنسی",
-      "img": "http://appreactdev.gigfa.com/app_pic/12.png"
+      "img": "../assets/deleteImage/categries/12.png"
     },
     {
       "id": 12,
       "title": "ویتامین ها",
-      "img": "http://appreactdev.gigfa.com/app_pic/10.png"
+      "img": "../assets/deleteImage/categries/10.png"
     },
     {
       "id": 13,
       "title": "تجهیزات پزشکی",
-      "img": "http://appreactdev.gigfa.com/app_pic/13.png"
+      "img": "../assets/deleteImage/categries/13.png"
     }
   ],
   "bestSeller": [
-    { "id": 1, "img": "http://appreactdev.gigfa.com/best/1.png" },
-    { "id": 2, "img": "http://appreactdev.gigfa.com/best/2.png" },
-    { "id": 3, "img": "http://appreactdev.gigfa.com/best/2.png" },
-    { "id": 4, "img": "http://appreactdev.gigfa.com/best/3.png" },
-    { "id": 5, "img": "http://appreactdev.gigfa.com/best/4.png" }
+    { "id": 1, "img": "../assets/deleteImage/bestseler/1.png" },
+    { "id": 2, "img": "../assets/deleteImage/bestseler/2.png" },
+    { "id": 3, "img": "../assets/deleteImage/bestseler/3.png" },
+    { "id": 4, "img": "../assets/deleteImage/bestseler/4.png" },
+    { "id": 5, "img": "../assets/deleteImage/bestseler/5.png" }
   ]
 }
